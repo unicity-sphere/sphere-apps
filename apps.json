@@ -49,5 +49,11 @@
       "url": "https://sphere-wishingwell.vercel.app/",
       "icon": "https://sphere-wishingwell.vercel.app/icon.png"
     }
+ ,{
+      "category": "custom",
+      "name": "Vadya Agent",
+      "description": "Autonomous agent with auto-payments and group chat on Unicity",
+      "url": "https://sphere.unicity.network/agents/chat?nametag=vadya05"
+    } 
   ]
 }

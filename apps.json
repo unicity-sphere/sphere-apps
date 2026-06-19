@@ -18,7 +18,8 @@
       "name": "Chess",
       "description": "Play chess with friends on Unicity",
       "url": "https://mastap.github.io/unicity-sphere-chess/",
-      "icon": "https://raw.githubusercontent.com/MastaP/unicity-sphere-chess/refs/heads/main/logo.png"
+      "icon": "https://raw.githubusercontent.com/MastaP/unicity-sphere-chess/refs/heads/main/logo.png",
+      "hidden": true
     },
     {
       "category": "games",
